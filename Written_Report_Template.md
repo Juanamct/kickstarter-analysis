@@ -10,11 +10,11 @@ Using excel pivot tables to filter the kick_starter data, and creating goal rang
 
 ### *Analysis of Outcomes Based on Launch Date*
 
-    * ![This is the Outcomes Based on Launch Date Graph](  
+    * ![This is the Outcomes Based on Launch Date Graph](https://github.com/Juanamct/kickstarter-analysis/blob/main/resources/Theater_Outcomes_vs_Launch.png)  
 
 ### *Analysis of Outcomes Based on Goals*
 
-    * ![This is the Outcomes Based on Goals Graph](
+    * ![This is the Outcomes Based on Goals Graph](https://github.com/Juanamct/kickstarter-analysis/blob/main/resources/Outcomes_vs_Goals.png)
 
 ### *Challenges and Difficulties Encountered*
 
